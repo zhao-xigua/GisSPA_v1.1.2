@@ -1,4 +1,4 @@
-# GisSPA_v2.0
+# GisSPA_v1.1.2
 In this version, the primary improvement is the correction of the GPU memory leak issue！
 
 
